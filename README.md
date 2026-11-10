@@ -1,6 +1,6 @@
 # DualClip
 
-A lightweight Python desktop utility that extends the traditional system clipboard with two independent clipboard slots.
+A lightweight Python Microsoft Word utility that extends the traditional system clipboard with two independent clipboard slots.
 
 ## Planned Features
 
